@@ -1,33 +1,33 @@
-id;Long_name;short_name;abbreviation;twitter;file_name;creation
-1;N7R E-Sports;N7R E-Sports;N7R;@N7ReSports;./Avatars/N7ReSports.jpg;27-Mar-19
-2;ADMIRALS eSports;ADMIRALS eSports;ADM;@_ADMIRALS;./Avatars/_ADMIRALS.jpg;25-Mar-19
-3;Agranu eSports;Agranu eSports;AG;@AGReSports;./Avatars/AGReSports.jpg;21-Mar-19
-4;For Defenders eSports;For Defenders eSports;4Dx;@4DxeSports;./Avatars/4DxeSports.jpg;3-Feb-19
-5;Squall Esports;Squall Esports;SQ;@SquallEsports;./Avatars/SquallEsports.jpg;24-Feb-19
-6;Royal Guard;Royal Guard;RG;@1RGeSports;./Avatars/1RGeSports.jpg;29-Apr-19
-7;DiE eSports;DiE eSports;DiE;@oDiEeSports;./Avatars/oDiEeSports.jpg;24-Feb-19
-8;AWz eSports;AWz eSports;Awz;@AWzeSports;./Avatars/AWzeSports.jpg;14-Feb-19
-9;SkyWards;SkyWards;Sky;@SkyWards_SA;./Avatars/SkyWards_SA.jpg;4-Apr-19
-10;2D Esports;2D Esports;2D;@2DEsports;./Avatars/2DEsports.jpg;18-Mar-19
-11;OWLS e-SPORTS;OWL E-Sports;OWL;@OWLEsport;./Avatars/OWLEsport.jpg;1-May-19
-12;Quadruple Law Representative;QLR Gaming;QLR;@QLRGaming;./Avatars/QLRGaming.jpg;24-Mar-19
-13;ASMR eSports;ASMR eSports;ASMR;@ASMReSports;./Avatars/ASMReSports.jpg;14-Mar-19
-14;TheSquad eSports;TheSquad eSports;tsq3;@tsq3_;./Avatars/tsq3_.jpg;5-Mar-19
-15;5BzH ESports;5BzH ESports;5BzH;@5bzhfc;./Avatars/5bzhfc.jpg;4-Apr-19
-16;Redemption eSports;Redemption eSports;RDT;@RedemeSports;./Avatars/RedemeSports.jpg;4-Feb-19
-17;Osh-Tekk Warriors;Osh-Tekk Warriors;OTW;@OshTekkWarriors;./Avatars/OshTekkWarriors.jpg;27-Jan-19
-18;The Evil eSports;The Evil eSports;Evil;@TheEvileSports;./Avatars/TheEvileSports.jpg;13-Mar-19
-19;DONZ Esports;DONZ Esports;DONZ;@DonzEsports;./Avatars/DonzEsports.jpg;24-Feb-19
-20;WoLz eSports;WoLz eSports;WoLz;@WoLzeSports;./Avatars/WoLzeSports.jpg;22-Mar-19
-21;FragmatiK eSports;FragmatiK eSports;FMK;@FMKeSports;./Avatars/FMKeSports.jpg;21-Mar-19
-22;Devilz esport;Devilz esport;Devilz;@WeAreDevilz;./Avatars/WeAreDevilz.jpg;21-Mar-19
-23;Rx Esports;Rx Esports;Rx;@RxEsport;./Avatars/RxEsport.jpg;18-Mar-19
-24;POWER eSports;POWER eSports;POWER;@POWReSports;./Avatars/POWReSports.jpg;20-Feb-19
-25;Hazardous eSports;Hazardous eSports;Hz;@HazardousES;./Avatars/HazardousES.jpg;3-Feb-19
-26;TUWAIQ eSports;TUWAIQ eSports;TUWAIQ;@TUWAIQEC;./Avatars/TUWAIQEC.jpg;13-Feb-19
-27;Falcon Esports;the.fallcons;FES;@TheFallcons;./Avatars/TheFallcons.jpg;14-Apr-19
-28;WoRz eSports;WoRz eSports;WoRz;@WoRzeSports;./Avatars/WoRzeSports.jpg;22-Mar-19
-29;Optimistic Force E-Sports;Optimistic Force E-Sports;oF;@oF_eSports;./Avatars/oF_eSports.jpg;18-Jun-19
-30;Rwiz E-Sports;Rwiz E-Sports;Rwiz;@RwizeSports;./Avatars/RwizeSports.jpg;20-Jun-19
-31;RevSolTeam;RevSolTeam;RS;@RevSolTeam;./Avatars/RevSolTeam.jpg;
-32;STRONG ESPORTS;STRONG ESPORTS;ST;@STeSports1;./Avatars/STeSports1.jpg;27-Jun-19
+id;Long_name;short_name;abbreviation;twitter;twitter_link;file_name;certi_name;creation
+1;N7R E-Sports;N7R E-Sports;N7R;@N7ReSports;https://twitter.com/N7ReSports;./Avatars/N7ReSports.jpg;./Certi/N7ReSports.jpg;27-Mar-19
+2;ADMIRALS eSports;ADMIRALS eSports;ADM;@_ADMIRALS;https://twitter.com/_ADMIRALS;./Avatars/_ADMIRALS.jpg;./Certi/_ADMIRALS.jpg;25-Mar-19
+3;Agranu eSports;Agranu eSports;AG;@AGReSports;https://twitter.com/AGReSports;./Avatars/AGReSports.jpg;./Certi/AGReSports.jpg;21-Mar-19
+4;For Defenders eSports;For Defenders eSports;4Dx;@4DxeSports;https://twitter.com/4DxeSports;./Avatars/4DxeSports.jpg;./Certi/4DxeSports.jpg;3-Feb-19
+5;Squall Esports;Squall Esports;SQ;@SquallEsports;https://twitter.com/SquallEsports;./Avatars/SquallEsports.jpg;./Certi/SquallEsports.jpg;24-Feb-19
+6;Royal Guard;Royal Guard;RG;@1RGeSports;https://twitter.com/1RGeSports;./Avatars/1RGeSports.jpg;./Certi/1RGeSports.jpg;29-Apr-19
+7;DiE eSports;DiE eSports;DiE;@oDiEeSports;https://twitter.com/oDiEeSports;./Avatars/oDiEeSports.jpg;./Certi/oDiEeSports.jpg;24-Feb-19
+8;AWz eSports;AWz eSports;Awz;@AWzeSports;https://twitter.com/AWzeSports;./Avatars/AWzeSports.jpg;./Certi/AWzeSports.jpg;14-Feb-19
+9;SkyWards;SkyWards;Sky;@SkyWards_SA;https://twitter.com/SkyWards_SA;./Avatars/SkyWards_SA.jpg;./Certi/SkyWards_SA.jpg;4-Apr-19
+10;Dream Destroyers Esports;2D Esports;2D;@2DEsports;https://twitter.com/2DEsports;./Avatars/2DEsports.jpg;./Certi/2DEsports.jpg;18-Mar-19
+11;OWLS e-SPORTS;OWL E-Sports;OWL;@OWLEsport;https://twitter.com/OWLEsport;./Avatars/OWLEsport.jpg;./Certi/OWLEsport.jpg;1-May-19
+12;Quadruple Law Representative;QLR Gaming;QLR;@QLRGaming;https://twitter.com/QLRGaming;./Avatars/QLRGaming.jpg;./Certi/QLRGaming.jpg;24-Mar-19
+13;ASMR eSports;ASMR eSports;ASMR;@ASMReSports;https://twitter.com/ASMReSports;./Avatars/ASMReSports.jpg;./Certi/ASMReSports.jpg;14-Mar-19
+14;TheSquad eSports;TheSquad eSports;tsq3;@tsq3_;https://twitter.com/tsq3_;./Avatars/tsq3_.jpg;./Certi/tsq3_.jpg;5-Mar-19
+15;5BzH ESports;5BzH ESports;5BzH;@5bzhfc;https://twitter.com/5bzhfc;./Avatars/5bzhfc.jpg;./Certi/5bzhfc.jpg;4-Apr-19
+16;Redemption eSports;Redemption eSports;RDT;@RedemeSports;https://twitter.com/RedemeSports;./Avatars/RedemeSports.jpg;./Certi/RedemeSports.jpg;4-Feb-19
+17;Osh-Tekk Warriors;Osh-Tekk Warriors;OTW;@OshTekkWarriors;https://twitter.com/OshTekkWarriors;./Avatars/OshTekkWarriors.jpg;./Certi/OshTekkWarriors.jpg;27-Jan-19
+18;The Evil eSports;The Evil eSports;Evil;@TheEvileSports;https://twitter.com/TheEvileSports;./Avatars/TheEvileSports.jpg;./Certi/TheEvileSports.jpg;13-Mar-19
+19;DONZ Esports;DONZ Esports;DONZ;@DonzEsports;https://twitter.com/DonzEsports;./Avatars/DonzEsports.jpg;./Certi/DonzEsports.jpg;24-Feb-19
+20;WoLz eSports;WoLz eSports;WoLz;@WoLzeSports;https://twitter.com/WoLzeSports;./Avatars/WoLzeSports.jpg;./Certi/WoLzeSports.jpg;22-Mar-19
+21;FragmatiK eSports;FragmatiK eSports;FMK;@FMKeSports;https://twitter.com/FMKeSports;./Avatars/FMKeSports.jpg;./Certi/FMKeSports.jpg;21-Mar-19
+22;Devilz esport;Devilz esport;Devilz;@WeAreDevilz;https://twitter.com/WeAreDevilz;./Avatars/WeAreDevilz.jpg;./Certi/WeAreDevilz.jpg;21-Mar-19
+23;Rx Esports;Rx Esports;Rx;@RxEsport;https://twitter.com/RxEsport;./Avatars/RxEsport.jpg;./Certi/RxEsport.jpg;18-Mar-19
+24;POWER eSports;POWER eSports;POWER;@POWReSports;https://twitter.com/POWReSports;./Avatars/POWReSports.jpg;;20-Feb-19
+25;Hazardous eSports;Hazardous eSports;Hz;@HazardousES;https://twitter.com/HazardousES;./Avatars/HazardousES.jpg;./Certi/HazardousES.jpg;3-Feb-19
+26;TUWAIQ eSports;TUWAIQ eSports;TUWAIQ;@TUWAIQEC;https://twitter.com/TUWAIQEC;./Avatars/TUWAIQEC.jpg;./Certi/TUWAIQEC.jpg;13-Feb-19
+27;Falcon Esports;the.fallcons;FES;@TheFallcons;https://twitter.com/TheFallcons;./Avatars/TheFallcons.jpg;./Certi/TheFallcons.jpg;14-Apr-19
+28;WoRz eSports;WoRz eSports;WoRz;@WoRzeSports;https://twitter.com/WoRzeSports;./Avatars/WoRzeSports.jpg;./Certi/WoRzeSports.jpg;22-Mar-19
+29;Optimistic Force E-Sports;Optimistic Force E-Sports;oF;@oF_eSports;https://twitter.com/oF_eSports;./Avatars/oF_eSports.jpg;./Certi/oF_eSports.jpg;18-Jun-19
+30;Rwiz E-Sports;Rwiz E-Sports;Rwiz;@RwizeSports;https://twitter.com/RwizeSports;./Avatars/RwizeSports.jpg;./Certi/RwizeSports.jpg;20-Jun-19
+31;RevSolTeam;RevSolTeam;RS;@RevSolTeam;https://twitter.com/RevSolTeam;./Avatars/RevSolTeam.jpg;;
+32;STRONG ESPORTS;STRONG ESPORTS;ST;@STeSports1;https://twitter.com/STeSports1;./Avatars/STeSports1.jpg;./Certi/STeSports1.jpg;27-Jun-19

@@ -1,0 +1,53 @@
+org;game;type;id;start_date;end_date;teams;M/F;players;1st;2nd;3rd;4th;5th;6th;7th;8th;prize1;prize2;prize3;prize_total;currency;consule;tournament_name;vs
+HERA;COD BO 4;tourney;1;14-Mar-19;5-Apr-19;64;M;;N7ReSports;RevSolTeam;QLRGaming;POWReSports;;;;;12000;8000;5000;25000;SR;PS4;Shawarmer Call of Duty Tournament;5vs5
+HERA;Fortnite;tourney;2;15-Mar-19;18-Apr-19;256;M;;TheEvileSports;SquallEsports;SquallEsports;N7ReSports;;;;;12000;8000;5000;25000;SR;PS4;Shawarmer FORTNITE Tournament;2vs2
+HERA;Fifa19;tourney;3;16-Mar-19;22-Apr-19;1024;M;1024;POWReSports;@XahmedXz;amoaq;@yove1122;;;;;12000;8000;5000;25000;SR;PS4;MRSOOL Football 19 Tournament;1vs1
+HERA;Fortnite;tourney;4;16-May-19;27-May-19;32;M;;OshTekkWarriors;XSA Clan;WoRzeSports;Angel of Death;;;;;12000;8000;5000;25000;SR;XBOX;Xbox-Fortnite;2vs2
+HERA;Fortnite;tourney;5;14-May-19;28-May-19;256;M;;tsq3_;WoRzeSports;POWReSports;OshTekkWarriors;;;;;8000;5000;2000;15000;SR;PS4;Lean meals-Fortnite;2vs2
+HERA;Overwatch;tourney;6;9-May-19;21-May-19;16;M;;OshTekkWarriors;ANELE Clap 2.0;Git Gud;;;;;;8000;5000;2000;15000;SR;PC;Mrsool Overwatch MENA Commu;6vs6
+HERA;COD BO 4;tourney;7;15-May-19;24-May-19;32;M;;N7ReSports;ASMReSports;WRcZ Squad;RGsx;;;;;5000;3000;2000;10000;SR;PS4;DIC-COD Black OPS;5vs5
+HERA;Fifa19;tourney;8;12-May-19;24-May-19;32;M;;WoLzeSports;AGReSports;TheEvileSports;2DEsports;;;;;8000;5000;2000;15000;SR;PS4;Zad-FIFA pro clubs;11vs11
+HERA;Overwatch;league;9;23-May-19;30-May-19;8;F;;DonzEsports;4DxeSports;POWReSports;;;;;;6000;3000;1000;10000;SR;PS4;Mrsool Overwatch Female Only C;6vs6
+HERA;R6S;tourney;10;10-May-19;26-May-19;32;M;;OshTekkWarriors;Misfits;TheUltimates;heroes team;;;;;8000;5000;2000;15000;SR;PC;Golden Brown R6S Tournament;5vs5
+NAFS;COD BO 4;league;1;1-Jun-19;30-Jun-19;208;;;WRcZ;WoLzeSports;RevSolTeam;4DxeSports;DonzEsports;Redemption eSports;SG;Xi;;;;650;point;PS4;œÊ—Ì CWL ° S&D ° ·‘Â— ÌÊ‰ÌÊ;
+NAFS;COD BO 4;tourney;2;31-May-19;2-Jun-19;8;;;OshTekkWarriors;WoLzeSports;;;;;;;;;;500;point;PS4;»ÿÊ·… ‰«›” «·ﬂ»—Ï;
+NAFS;COD BO 4;tourney;3;23-May-19;27-May-19;64;;;OshTekkWarriors;ASMReSports;;;;;;;;;;250;point;PS4;»ÿÊ·… ‰«›” «·ﬂ»—Ï : «·„—Õ·… «·À«·À…;
+NAFS;COD BO 4;tourney;4;16-May-19;20-May-19;64;;;OshTekkWarriors;RevSolTeam;;;;;;;;;;250;point;PS4;»ÿÊ·… ‰«›” «·ﬂ»—Ï : «·„—Õ·… «·À«‰Ì…;
+NAFS;COD BO 4;league;5;6-May-19;31-May-19;283;;;OshTekkWarriors;RevSolTeam;WoLzeSports;oRGs;ASMReSports;WRcZ;Redemption eSports;WRs2;;;;650;point;PS4;œÊ—Ì CWL ° S&D ° ·‘Â— —„÷«‰;
+NAFS;COD BO 4;tourney;6;7-May-19;11-May-19;64;;;WRcZ;N7ReSports;;;;;;;;;;250;point;PS4;»ÿÊ·… ‰«›” «·ﬂ»—Ï : «·„—Õ·… «·√Ê·Ï;
+NAFS;COD BO 4;league;7;1-Apr-19;30-Apr-19;169;;;WRcZ;2DEsports;N7ReSports;ASMReSports;NE;OshTekkWarriors;Xi;oRGs;;;;650;point;PS4;œÊ—Ì CWL ° S&D ° ·‘Â— ≈»—Ì·;
+NAFS;COD BO 4;league;8;1-Mar-19;31-Mar-19;196;;;POWReSports;ASMReSports;NE;N7ReSports;WaRs;2DEsports;RivL;4DxeSports;;;;650;point;PS4;œÊ—Ì CWL ° S&D ° ·‘Â— „«—”;
+NAFS;COD BO 4;tourney;9;20-Feb-19;24-Feb-19;64;;;RevSolTeam;4DxeSports;;;;;;;;;;150;point;PS4;»ÿÊ·… S&D ·‘Â— ›»—«Ì—;
+NAFS;COD BO 4;league;10;1-Feb-19;28-Feb-19;198;;;4DxeSports;ASMReSports;TiMz;N7ReSports;Redemption eSports;NE;RevSolTeam;SG;;;;650;point;PS4;#œÊ—Ì_‰«›” ·‘Â— ›»—«Ì—;
+NAFS;COD BO 4;league;11;1-Jan-19;31-Jan-19;357;;;POWReSports;N7ReSports;Redemption eSports;RevSolTeam;TiMz;WRcZ;WoRzeSports;Livr;;;;650;point;PS4;œÊ—Ì S&D ·‘Â— Ì‰«Ì—;
+NAFS;COD BO 4;league;12;1-Dec-18;31-Dec-18;314;;;WRcZ;OshTekkWarriors;xRv;ASMReSports;DEVN;POWReSports;RevSolTeam;ruei;;;;650;point;PS4;œÊ—Ì S&D ·‘Â— œÌ”„»—;
+NAFS;COD BO 4;league;13;1-Nov-18;30-Nov-18;427;;;OshTekkWarriors;oRGs;WRcZ;POWReSports;NE;MoST;GV;2DEsports;;;;650;point;PS4;œÊ—Ì S&D ·‘Â— ‰Ê›„»—;
+NAFS;COD BO 4;tourney;14;27-Apr-19;27-Apr-19;8;;;N7ReSports;ASMReSports;;;;;;;;;;50;point;PS4;»ÿÊ·… «·√”»Ê⁄ «·—«»⁄ ··„—«ﬂ“ «·À„«‰Ì…;
+NAFS;COD BO 4;tourney;15;20-Apr-19;20-Apr-19;8;;;WRcZ;ASMReSports;;;;;;;;;;50;point;PS4;»ÿÊ·… «·√”»Ê⁄ «·À«·À ··„—«ﬂ“ «·À„«‰Ì…;
+NAFS;COD BO 4;tourney;16;13-Apr-19;13-Apr-19;8;;;WRcZ;N7ReSports;;;;;;;;;;50;point;PS4;»ÿÊ·… «·√”»Ê⁄ «·À«‰Ì ··„—«ﬂ“ «·À„«‰Ì…;
+NAFS;COD BO 4;tourney;17;6-Apr-19;7-Apr-19;8;;;N7ReSports;TiMz;;;;;;;;;;50;point;PS4;»ÿÊ·… «·√”»Ê⁄ «·√Ê· ··„—«ﬂ“ «·À„«‰Ì…;
+NAFS;COD BO 4;tourney;18;30-Mar-19;31-Mar-19;8;;;POWReSports;ASMReSports;;;;;;;;;;50;point;PS4;»ÿÊ·… «·√”»Ê⁄ «·—«»⁄ ··„—«ﬂ“ «·À„«‰Ì…;
+NAFS;COD BO 4;tourney;19;23-Mar-19;24-Mar-19;8;;;POWReSports;ASMReSports;;;;;;;;;;50;point;PS4;»ÿÊ·… «·√”»Ê⁄ «·À«·À ··„—«ﬂ“ «·À„«‰Ì…;
+NAFS;COD BO 4;tourney;20;16-Mar-19;17-Mar-19;8;;;RevSolTeam;POWReSports;;;;;;;;;;50;point;PS4;»ÿÊ·… «·√”»Ê⁄ «·À«‰Ì ··„—«ﬂ“ «·À„«‰Ì…;
+NAFS;COD BO 4;tourney;21;9-Mar-19;11-Mar-19;8;;;RevSolTeam;ASMReSports;;;;;;;;;;50;point;PS4;»ÿÊ·… «·√”»Ê⁄ «·√Ê· ··„—«ﬂ“ «·À„«‰Ì…;
+NAFS;COD BO 4;tourney;22;21-Nov-18;25-Nov-18;64;;;OshTekkWarriors;TTEx;;;;;;;;;;150;point;PS4;»ÿÊ·… S&D ·‘Â— ‰Ê›„»—;
+NAFS;Overwatch;tourney;23;31-Mar-18;8-Apr-18;16;;;RsOW;R2A;;;;;;;;;;500;point;PS4;«·»ÿÊ·… «·À«‰Ì…;
+NAFS;Overwatch;tourney;24;19-Jun-17;23-Jun-17;64;;;IFuL;OWM;;;;;;;;;;240;$;PS4;»ÿÊ·… iCoChampion;
+NAFS;Overwatch;tourney;25;7-Mar-17;15-Mar-17;32;;;IFuL;Get;;;;;;;;;;150;point;PS4;«·»ÿÊ·… «·√Ê·Ï;
+NAFS;Fortnite;tourney;26;18-Jun-19;26-Jun-19;256;;;TR-2;QLRGaming;;;;;;;;;;250;point;PC;»ÿÊ·… ›Ê— ‰«Ì  ‰«›”;
+NAFS;Fortnite;league;27;1-Jun-19;30-Jun-19;941;;;WoLzeSports;WoRzeSports;WoRzeSports;BLx1;iSad;BRTH;OWLEsport;Redemption eSports;;;;250;point;PC;#œÊ—Ì_‰«›” ‘Â— ÌÊ‰ÌÊ;
+NAFS;Fortnite;tourney;28;28-May-19;3-Jun-19;128;;;OshTekkWarriors;Redemption eSports;;;;;;;;;;250;point;PS4;»ÿÊ·… ›Ê— ‰«Ì  «·—„÷«‰Ì…;
+NAFS;Fortnite;tourney;29;10-May-19;14-May-19;32;;;NRk;WoRzeSports;;;;;;;;;;250;point;PC;»ÿÊ·… À‰«∆Ì«  ›Ê— ‰«Ì  (PC) ‰«›” «·—„÷«‰Ì…;2vs2
+NAFS;Fortnite;league;30;6-May-19;31-May-19;1402;;;ASMReSports;WoRzeSports;ASMReSports;WoRzeSports;OshTekkWarriors;TR-2;SquallEsports;Redemption eSports;;;;250;point;PS4;œÊ—Ì ›Ê— ‰«Ì  «·—„÷«‰Ì;
+NAFS;Fortnite;league;31;1-Mar-19;31-Mar-19;1684;;;N7ReSports;tsq3_;tsq3_;tsq3_;tsq3_;iSad;Alpha esports;ASMReSports;;;;1000;SR;PC;œÊ—Ì SOLO ° DUO ·‘Â— „«—”;
+NAFS;Fortnite;league;32;1-Feb-19;28-Feb-19;1385;;;WoRzeSports;WoRzeSports;CW;FMKeSports;iSad;N7ReSports;oF_eSports;FMKeSports;;;;1000;SR;PS4;#œÊ—Ì_‰«›” ‘Â— ›»—«Ì—;
+NAFS;Fortnite;tourney;33;24-Jan-19;6-Feb-19;59;;;Cocodrilos Esport;SquallEsports;;;;;;;;;;50;$;PC;»ÿÊ·… À‰«∆Ì« ;2vs2
+NAFS;Fortnite;league;34;1-Jan-19;31-Jan-19;1262;;;N7ReSports;TMsp;D-W;N7ReSports;N7ReSports;AGReSports;Q7u2;oDiEeSports;;;;34000;VB;PS4;œÊ—Ì À‰«∆Ì«  ‘Â— Ì‰«Ì—;2vs2
+NAFS;Fortnite;tourney;35;28-Dec-18;6-Jan-19;255;;;SquallEsports;POWReSports;;;;;;;;;;1000;SR;PS4;»ÿÊ·… ‰Ê‰ √ﬂ«œÌ„Ì;
+NAFS;Fortnite;league;36;1-Dec-18;31-Dec-18;757;;;SquallEsports;WoRzeSports;OshTekkWarriors;oDiEeSports;oDiEeSports;POWReSports;POWReSports;OshTekkWarriors;;;;40;$;PS4;œÊ—Ì À‰«∆Ì«  ‘Â— œÌ”„»—;2vs2
+NAFS;Fortnite;league;37;1-Oct-18;31-Oct-18;335;;;WoRzeSports;oDiEeSports;Roix;So1G;Rioz;KRZ;1DK;xNT;;;;40;$;PS4;œÊ—Ì À‰«∆Ì«  ‘Â— √ﬂ Ê»—;2vs2
+NAFS;Fortnite;league;38;1-Sep-18;30-Sep-18;620;;;4DxeSports;N7ReSports;PFx;WoRzeSports;2Fun;4Dxv;XA;POWReSports;;;;40;$;PS4;œÊ—Ì À‰«∆Ì«  ‘Â— ”» „»—;2vs2
+NAFS;Fortnite;league;39;1-Aug-18;31-Aug-18;791;;;OshTekkWarriors;xiTp;SR;liol;Faz1;N7ReSports;SquallEsports;PFx;;;;100;$;PS4;œÊ—Ì À‰«∆Ì«  ‘Â— √€”ÿ”;2vs2
+NAFS;Fortnite;tourney;40;18-Jul-18;29-Jul-18;256;;;PFx;S2K;;;;;;;;;;100;$;PS4;»ÿÊ·… À‰«∆Ì«  «·„Ê”„ «·À«‰Ì;2vs2
+NAFS;Fortnite;league;41;;7-Jul-18;1008;;;OshTekkWarriors;PFx;OshTekkWarriors;TEOR;XA;TMsp;Mo5;tsq3_;;;;1000;SR;PS4;œÊ—Ì À‰«∆Ì«  «·„Ê”„ «·√Ê·;2vs2
+NAFS;Fortnite;tourney;42;3-Jun-18;10-Jun-18;128;;;tsq3_;4DxeSports;;;;;;;;;;100;$;PS4;»ÿÊ·… À‰«∆Ì«  «·„Ê”„ «·√Ê·;2vs2
