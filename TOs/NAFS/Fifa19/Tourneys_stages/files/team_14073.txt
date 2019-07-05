@@ -1,0 +1,2440 @@
+﻿
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="wprEbMIkic8V8sKPpkkqPXN2b69BDvBCaueEO19o0nU" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<title> نافس  - بطولة برو كلوب نافس للأبطال</title> 
+
+
+
+	
+	<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/bootstrap.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/mk-notifications.css"/>
+	<link type="text/css" rel="stylesheet" href="/bundles/layout/Frontend/css/bootstrapValidator.min.css" />
+
+	<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/style.css"/>
+
+	<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/right-side.css"/>
+
+	<!--<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/js/tabs/jquery.ui.tabs.min.css"/>-->
+
+	<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/js/tabs/jquery.ui.core.min.css"/>
+
+	<!--<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/js/tabs/jquery.ui.theme.min.css"/>-->
+
+	<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/jquery-ui.css"/>
+
+	<!-- 01-11-2017 favicon image changed start -->
+	
+	<link rel="icon" type="image/png" href="/bundles/layout/Frontend/img/favicon.png">
+	
+	<!-- 01-11-2017 favicon image changed end -->
+	
+	<!-- 01-11-2017 style added start -->
+	
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cairo|Montserrat:400,700">
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/grids.css">
+	
+    <link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/0-style.css">
+	
+	<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/emoji.css">
+
+    <link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/icomoon/style.css">
+	
+		<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/flag-icon.min.css"/>
+
+
+	<!-- 01-11-2017 style added end -->
+	
+
+	<link rel="stylesheet" type="text/css" href="/bundles/layout/Frontend/css/jquery.fancybox.css"/>
+	
+	<meta property="og:title" content="بطولة برو كلوب نافس للأبطال" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="بطولة برو كلوب نافس للأبطال" />
+	<meta property="og:url" content="http://plusgamer.com" />
+	<meta property="og:image" content="https://nafs.me/bundles/g4merzbackend/uploads/championships/" />
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="بطولة برو كلوب نافس للأبطال">
+	<meta name="twitter:description" content="بطولة برو كلوب نافس للأبطال">
+	<meta name="twitter:image:src" content="https://nafs.me/bundles/g4merzbackend/uploads/championships/">
+	<meta name="twitter:domain" content="plusgamer.com">
+
+
+<!--- 03-07-2018 firebase start ---->
+
+<!-- Firebase App is always required and must be first -->
+<script src="https://www.gstatic.com/firebasejs/5.1.0/firebase-app.js"></script>
+
+<!-- Add additional services that you want to use -->
+<script src="https://www.gstatic.com/firebasejs/5.1.0/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.1.0/firebase-database.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.1.0/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.1.0/firebase-messaging.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.1.0/firebase-functions.js"></script>
+
+<!-- Comment out (or don't include) services that you don't want to use -->
+<!-- <script src="https://www.gstatic.com/firebasejs/5.1.0/firebase-storage.js"></script> -->
+
+
+<!-- <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script> -->
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBOIPJwNNvGGUALKy65Jcl-ms2yUTToBHA",
+    authDomain: "nafs-7dcb7.firebaseapp.com",
+    databaseURL: "https://nafs-7dcb7.firebaseio.com",
+    projectId: "nafs-7dcb7",
+    storageBucket: "nafs-7dcb7.appspot.com",
+    messagingSenderId: "815733839896"
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+<!-- 03-07-2018 end -->
+
+	<div class="suggest_users_box_form"></div>
+<!--<div class="suggest_users_box">
+<ul class=""> 
+<li class="suggested-user">1</li>
+<li class="suggested-user">2</li>
+<li class="suggested-user">3</li>
+</ul>
+</div>-->
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/jquery.min.js"></script>  
+	
+	<!-- 01-11-2017 js added end -->
+	
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/app.js"></script>
+
+	<!-- 01-11-2017 js added end -->
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/bootstrap.min.js"></script>
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/bootstrapValidator.min.js"></script>	
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/jquery.flipcountdown.js"></script> 
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/countdown.js"></script>
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/tabs/jquery-ui-1.9.2.tabs.custom.min.js"></script>  
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/socialite.min.js"></script>
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/mk-notifications.js"></script>
+	<script>
+
+	  $(function() {
+
+		$( ".datepicker" ).datepicker();
+
+	  });
+
+  </script>
+
+  
+<script>
+$(document).ready(function(){
+	
+	var search_user = '';
+	
+	var f = document.createElement("form");
+	f.setAttribute('method',"post");
+	f.setAttribute('name',"g4merz_corebundle_timeline_suggest_user");
+
+	var i = document.createElement("input"); //input element, text
+	i.setAttribute('type',"text");
+	i.setAttribute('name',"username");
+	i.setAttribute('class',"suggest_username");
+	i.setAttribute('value',search_user);
+
+	var s = document.createElement("input"); //input element, Submit button
+	s.setAttribute('type',"submit");
+	s.setAttribute('value',"Submit");
+
+	f.appendChild(i);
+	f.appendChild(s);
+
+	//and some more input elements here
+	//and dont forget to add a submit button
+
+	document.getElementsByClassName('suggest_users_box_form')[0].appendChild(f);
+	
+	$(document).on("keypress",".suggest_users.direct", function(e) {
+		/* console.log(e); */
+		console.log("keycode: "+e.keyCode+", charCode: "+e.charCode);
+		// console.log(e.which);
+		
+		var character_val = String.fromCharCode(e.which);
+		// console.log("character_val: "+character_val);
+		search_user += character_val;
+		
+		if(search_user.length > 2){
+			
+			$(".suggest_username").val(search_user);
+			console.log("value: "+$(".suggest_username").val());
+			
+			//e.preventDefault();
+			//e.stopPropagation();
+			
+			var suggestUserVal= $(this);
+			
+			var $form = $("form[name='g4merz_corebundle_timeline_suggest_user']");
+			//console.log($form);
+			
+			var postData = new FormData($form[0]);
+			//console.log(postData);
+			//suggestUserVal.attr("disabled" , "disabled");
+			
+			$.ajax(
+			{
+				xhr: function () {
+					var xhr = new window.XMLHttpRequest();
+					xhr.upload.addEventListener("progress", function (evt) {
+						if (evt.lengthComputable) {
+							var percentComplete = evt.loaded / evt.total;
+							//console.log(percentComplete);
+							$('.progress').css({
+								width: percentComplete * 100 + '%'
+							});
+							if (percentComplete === 1) {
+								$('.progress').addClass('hide');
+							}
+						}
+					}, false);
+					xhr.addEventListener("progress", function (evt) {
+						if (evt.lengthComputable) {
+							var percentComplete = evt.loaded / evt.total;
+							//console.log(percentComplete);
+							$('.progress').css({
+								width: percentComplete * 100 + '%'
+							});
+						}
+					}, false);
+					return xhr;
+				},
+				url : '/suggestedUsers',
+				type: "POST",
+				dataType: "json",
+				contentType: false,
+				data : postData,
+				cache: false,
+				processData: false,
+				success:function(data, textStatus, jqXHR) {
+					/* console.log(data); */
+					if(data.status == "success"){
+						suggestUserVal.closest(".suggest_users_box").find(".suggested-users-list ul").html(data.users);
+						suggestUserVal.closest(".suggest_users_box").find(".suggested-users-list").fadeIn();
+					}else{
+						// console.log('else:'+textStatus);
+						suggestUserVal.closest(".suggest_users_box").find(".suggested-users-list ul").html(data.error_msg);
+						suggestUserVal.closest(".suggest_users_box").find(".suggested-users-list").fadeIn();
+					}
+				},error: function(jqXHR, textStatus, errorThrown) {
+					/* console.log(jqXHR);
+					console.log(textStatus);
+					console.log(errorThrown); */
+					$('#text').html("انقطع الأتصال");
+					$('#text').addClass('redText');
+					$('#alert').fadeIn('slow');
+				}
+			});
+		
+		}
+		//e.preventDefault();
+		//e.stopPropagation();
+	});
+	
+	$(document).on("keypress",".suggest_users", function(event) {
+		/* console.log(event.which); */
+		if(event.which == 64) {
+			//console.log('@');	
+			search_user = '';
+			$(this).closest(".suggest_users_box").find(".suggest_users").addClass("active");
+			
+			/* var observer = new MutationObserver(function(mutations) {
+				console.log('hi');
+				mutations.forEach(function(mutation) {
+					// console.log('Mutation type: ' + mutation.type);
+					if ( mutation.type == 'childList' ) {
+						if (mutation.addedNodes.length >= 1) {
+							if (mutation.addedNodes[0].nodeName != '#text') {
+								// console.log('Added ' + mutation.addedNodes[0].tagName + ' tag.');
+							}
+						}
+						else if (mutation.removedNodes.length >= 1) {
+							// console.log('Removed ' + mutation.removedNodes[0].tagName + ' tag.')
+						}
+					}
+					if (mutation.type == 'attributes') {
+						console.log('Modified ' + mutation.attributeName + ' attribute.')
+					}
+				});   
+			});
+
+			var observerConfig = {
+				attributes: true,
+				childList: true,
+				characterData: true
+			};
+			
+			var targetNode = document.querySelector(".suggest_users.active");
+			console.log(targetNode);
+			observer.observe(targetNode, observerConfig); */
+			
+		}else{
+			//console.log('else');
+		}
+	});
+	
+	
+	
+	$(document).on("keypress",".suggest_users.active", function(e) {
+		/* console.log(e); */
+		console.log("keycode: "+e.keyCode+", charCode: "+e.charCode);
+		// console.log(e.which);
+		
+		var character_val = String.fromCharCode(e.which);
+		// console.log("character_val: "+character_val);
+		search_user += character_val;
+		
+		if(search_user.length > 2){
+			
+			$(".suggest_username").val(search_user);
+			console.log("value: "+$(".suggest_username").val());
+			
+			//e.preventDefault();
+			//e.stopPropagation();
+			
+			var suggestUserVal= $(this);
+			
+			var $form = $("form[name='g4merz_corebundle_timeline_suggest_user']");
+			//console.log($form);
+			
+			var postData = new FormData($form[0]);
+			//console.log(postData);
+			//suggestUserVal.attr("disabled" , "disabled");
+			
+			$.ajax(
+			{
+				xhr: function () {
+					var xhr = new window.XMLHttpRequest();
+					xhr.upload.addEventListener("progress", function (evt) {
+						if (evt.lengthComputable) {
+							var percentComplete = evt.loaded / evt.total;
+							//console.log(percentComplete);
+							$('.progress').css({
+								width: percentComplete * 100 + '%'
+							});
+							if (percentComplete === 1) {
+								$('.progress').addClass('hide');
+							}
+						}
+					}, false);
+					xhr.addEventListener("progress", function (evt) {
+						if (evt.lengthComputable) {
+							var percentComplete = evt.loaded / evt.total;
+							//console.log(percentComplete);
+							$('.progress').css({
+								width: percentComplete * 100 + '%'
+							});
+						}
+					}, false);
+					return xhr;
+				},
+				url : '/suggestedUsers',
+				type: "POST",
+				dataType: "json",
+				contentType: false,
+				data : postData,
+				cache: false,
+				processData: false,
+				success:function(data, textStatus, jqXHR) {
+					/* console.log(data); */
+					if(data.status == "success"){
+						suggestUserVal.closest(".suggest_users_box").find(".suggested-users-list ul").html(data.users);
+						suggestUserVal.closest(".suggest_users_box").find(".suggested-users-list").fadeIn();
+					}else{
+						// console.log('else:'+textStatus);
+						suggestUserVal.closest(".suggest_users_box").find(".suggested-users-list ul").html(data.error_msg);
+						suggestUserVal.closest(".suggest_users_box").find(".suggested-users-list").fadeIn();
+					}
+				},error: function(jqXHR, textStatus, errorThrown) {
+					/* console.log(jqXHR);
+					console.log(textStatus);
+					console.log(errorThrown); */
+					$('#text').html("انقطع الأتصال");
+					$('#text').addClass('redText');
+					$('#alert').fadeIn('slow');
+				}
+			});
+		
+		}
+		//e.preventDefault();
+		//e.stopPropagation();
+	});
+	
+	$(document).on("click" , ".suggested-user" ,function(event){
+		event.preventDefault();
+		var userName = $(this).text();
+		console.log($(this).closest(".suggest_users_box").find(".suggest_users").val());
+		
+		var suggestUsersBody = $(this).closest(".suggest_users_box").find(".suggest_users").val();
+		suggestUsersBody = suggestUsersBody.slice(0, -search_user.length);
+		suggestUsersBody += ""+userName+" ";
+		
+		$(this).closest(".suggest_users_box").find(".suggest_users").val(suggestUsersBody);
+		$(this).closest(".suggest_users_box").find(".suggested-users-list").fadeOut();
+		$(this).closest(".suggest_users_box").find(".suggested-users-list ul").html("");
+		$(this).closest(".suggest_users_box").find(".suggest_users").removeClass("active");
+		search_user = '';
+		//$("#relativeTag").css("margin-bottom" , "0px");
+		event.preventDefault();
+	});
+	
+	$(document).on("click" , ".suggested-users-list .close" ,function(event){
+		$(this).closest(".suggested-users-list").fadeOut();
+		$(this).closest(".suggested-users-list ul").html("");
+		$(this).closest(".suggest_users_box").find(".suggest_users").removeClass("active");
+		search_user = '';
+	});
+});
+</script>
+  
+
+	<script type="text/javascript">
+
+
+
+	  $(function() {
+
+		$( "#Tabs11" ).tabs();
+
+		$( "#Tabs12" ).tabs();
+
+		$( "#Tabs111" ).tabs();
+
+		$(".tabs").tabs();
+
+	  });
+
+	   
+
+	     $(function() {
+
+			$( "#Tabs13" ).tabs();
+
+		});
+
+	   
+
+	   
+
+	   $(window).scroll(function() {    
+
+		var scroll = $(window).scrollTop();
+
+
+
+		/*if (scroll >= 120) {
+
+			$(".header.big-header").addClass("gamal fixed navbar-fixed-top fixed-top");
+
+			$(".gamal").removeClass("header big-header");
+
+			$(".hideMenu").addClass("showMenu");
+
+			$(".showMenu").removeClass("hideMenu");
+
+		} else {
+
+			$(".gamal").addClass("header big-header");
+
+			$(".header.big-header").removeClass("gamal fixed navbar-fixed-top fixed-top");
+
+			$(".showMenu").addClass("hideMenu");
+
+			$(".hideMenu").removeClass("showMenu");
+
+		}
+
+		*/
+
+	});
+
+	   
+
+	</script>
+
+	
+		<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+
+	
+
+	<script type="text/javascript" src="/bundles/layout/Frontend/js/jquery.fancybox.pack.js"></script> 
+	<script>
+		$(document).ready(function(){
+			$(".fancybox").fancybox({
+			openEffect:"elastic",
+			closeEffect:"elastic"
+			});
+		});
+	</script>
+
+
+
+  
+
+<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+	ga('create', 'UA-69567302-1', 'auto');
+
+	ga('send', 'pageview');
+
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110109346-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110109346-1');
+</script>
+
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7278891285150939",
+    enable_page_level_ads: true
+  });
+</script>
+-->
+
+
+</head>
+
+
+
+<body >
+
+	<div id="fb-root"></div>
+
+	<script>(function(d, s, id) {
+
+	  var js, fjs = d.getElementsByTagName(s)[0];
+
+	  if (d.getElementById(id)) return;
+
+	  js = d.createElement(s); js.id = id;
+
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=935026426522343";
+
+	  fjs.parentNode.insertBefore(js, fjs);
+
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	<script>
+
+		$(document).ready(function (){
+
+			$("#ggg").on("click" , function(event){
+
+				event.stopPropagation();
+
+				if($("#notification_container").hasClass("showData") || $(".notify2").hasClass("showData"))
+
+				{
+
+					$("#notification_container").css("display" , "none");
+
+					$("#notification_container").removeClass("showData");
+
+				}
+
+				else
+
+				{
+
+					$("#notification_container").css("display" , "block");
+
+					$("#notification_container").addClass("showData");
+
+				}
+
+			});	
+
+			
+
+			$(".showProfileUserControlMenu").on("click" , function(){
+
+				$(".profileUserControlMenu").fadeIn();
+
+				$(".profileUserControlMenu").addClass("showData");
+
+			});
+
+			
+
+			
+
+			$("html").on("click" , function(){
+
+				if($("#notification_container").hasClass("showData") && !window.mouse_is_inside)
+
+				{
+
+					$("#notification_container").css("display" , "none");
+
+					$(".notify2").css("display" , "none");
+
+					$(".notifyul2 .notifyHeader").css("display" , "none");
+
+					$("#notification_container").removeClass("showData");
+
+					$(".notify2").removeClass("showData");
+
+				}
+
+				
+
+				if($(".profileUserControlMenu").hasClass("showData") && !window.profile_menumouse_is_inside)
+
+				{
+
+					$(".profileUserControlMenu").fadeOut();
+
+					$(".profileUserControlMenu").removeClass("showData");
+
+				}
+
+				
+
+				
+
+				if($(".showFollowList").hasClass("active") && !window.mouse_is_inside_followList && !window.mouse_is_inside_followList_list)
+
+				{
+
+					$("#followingList").fadeOut();
+
+					$(".showFollowList").removeClass("active");
+
+					$("#relativeTag").css("margin-bottom" , "0px");
+
+				}
+
+				
+
+				if($(".showFollowList1").hasClass("active") && !window.mouse_is_inside_followList1 && !window.mouse_is_inside_followList_list_1)
+
+				{
+
+					$("#followingList1").fadeOut();
+
+					$(".showFollowList1").removeClass("active");
+
+					$("#relativeTag1").css("margin-bottom" , "20px");
+
+				}
+
+			});
+
+			
+
+			
+
+			$('.showProfileUserControlMenu').hover(function(){ 
+
+				window.profile_menumouse_is_inside=true; 
+
+			}, function(){ 
+
+				window.profile_menumouse_is_inside=false; 
+
+			});
+
+			
+
+			$('#notification_container').hover(function(){ 
+
+				window.mouse_is_inside=true; 
+
+			}, function(){ 
+
+				window.mouse_is_inside=false; 
+
+			});
+
+	
+
+			$('.showFollowList').hover(function(){ 
+
+				window.mouse_is_inside_followList=true; 
+
+			}, function(){ 
+
+				window.mouse_is_inside_followList=false; 
+
+			});
+
+			
+
+			$(document).on("hover" , '.showFollowList1' , function(){ 
+
+				window.mouse_is_inside_followList1=true; 
+
+			}, function(){ 
+
+				window.mouse_is_inside_followList1=false; 
+
+			});
+
+			
+
+			
+
+			
+
+			$("#followingList").hover(function(){ 
+
+				window.mouse_is_inside_followList_list=true; 
+
+			}, function(){ 
+
+				window.mouse_is_inside_followList_list=false; 
+
+			});
+
+			
+
+			$(document).on("hover" , "#followingList1" , function(){ 
+
+				window.mouse_is_inside_followList_list_1=true; 
+
+			}, function(){ 
+
+				window.mouse_is_inside_followList_list_1=false; 
+
+			});
+
+			
+
+			
+
+			
+
+			$(document).on("click" , ".readable" , function(event){
+
+				event.stopPropagation();
+
+				$(this).removeClass("readable");
+
+				
+
+				var notify_id = $(this).attr("data-not-id");
+
+				
+
+				$(".position-" + notify_id).each(function(){
+
+					$(this).find('a').addClass("seen");
+
+				});
+
+				
+
+				var PostData = [];
+
+				PostData[PostData.length] = {'name':'notification_id' , 'value': notify_id};
+
+				$.ajax({
+
+					type: "POST",
+
+					url: "/change_notification_status",
+
+					dataType: 'json',
+
+					data: PostData,
+
+					success: function(data){
+
+					}
+
+				});
+
+			});	
+
+			
+
+			$(document).on("click" , ".changeAllStatus" , function(event){
+
+				event.stopPropagation();
+
+				$(".position-r").each(function(){
+
+					$(this).find('a').addClass("seen");
+
+					$(this).find(".readable").removeClass("readable");
+
+				});
+
+				$.ajax({
+
+					type: "POST",
+
+					url: "/change_all_notification_status",
+
+					dataType: 'json',
+
+					success: function(data){
+
+					}
+
+				});
+
+			});
+
+			
+
+			$('#closemessage').click(function(){
+
+				$('#alert').fadeOut('slow');
+
+			});
+			
+			$('#closemessage-box').click(function(){
+
+				$('#message-display-box').fadeOut('slow');
+
+			});
+
+			
+
+			$(document).on("click" , ".getLogin" , function(event){
+
+				event.preventDefault();
+
+				$(".LoginBtn").click();
+
+				event.preventDefault();
+
+			});
+
+			$(document).on("click" , ".LoginBtn" , function(event){
+
+				event.preventDefault();
+
+				$.ajax(
+
+					{
+
+						url : "/login" ,
+
+						type: "POST",
+
+						dataType: "json",
+
+						data: {
+
+							'json' : '1'
+
+						},
+
+						success:function(data, textStatus, jqXHR) 
+
+						{
+
+							if(data.status == "success")
+
+							{
+
+								$("#myModal .right").html(data.renderHtml);
+
+								$.ajax(
+
+								{
+
+									url : "/register/" ,
+
+									type: "POST",
+
+									dataType: "json",
+
+									data: {
+
+										'json' : '1'
+
+									},
+
+									success:function(data, textStatus, jqXHR) 
+
+									{
+
+										if(data.status == "success")
+
+										{
+
+											$("#myModal .left").html(data.renderHtml);
+
+											$("#myModal").modal("show");
+
+										}
+
+										else
+
+										{
+
+											$('#text').html(data.error_msg);
+
+											$('#alert').fadeIn('slow');
+
+										}
+
+									},
+
+									error: function(jqXHR, textStatus, errorThrown) 
+
+									{
+
+										$('#text').html("حدث خطأ ما");
+
+										$('#alert').fadeIn('slow');     
+
+									}
+
+								});	
+
+							}
+
+							else
+
+							{
+
+								$('#text').html(data.error_msg);
+
+								$('#alert').fadeIn('slow');
+
+							}
+
+						},
+
+						error: function(jqXHR, textStatus, errorThrown) 
+
+						{
+
+							$('#text').html("حدث خطأ ما");
+
+							$('#alert').fadeIn('slow');     
+
+						}
+
+					});	
+
+				event.preventDefault();
+
+			});
+
+		});
+
+	</script>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">التسجيل</h4>
+      </div>
+      <div class="modal-body">
+		<div class="right">
+		</div>
+		<div class="left">
+		</div>
+		<div class="cleaner-h2"></div>
+		<div class="text-center gemy">
+			<p>او</p>
+			<p>تسجيل الدخول بواسطة</p>
+			<a href="/login/facebook"><img src="/bundles/layout/Frontend/img/facebook.png"/></a>
+			<a href="/login/twitter"><img src="/bundles/layout/Frontend/img/twitter-logo.png"/></a>
+		</div>
+	  </div>
+    </div>
+  </div>
+</div>
+
+<!-- 02-11-2017 new changes start -->
+
+<header>
+        <nav class="navbar navbar-light navbar-expand-lg navbar-template fixed-top custom-header">
+            <div class="container">
+               <!-- <a class="navbar-brand" href="#"> <img src="img/logo.png" class="logo" alt=""> </a>-->
+			   <a class="navbar-brand" href="/"><img class="logo" src="/bundles/layout/Frontend/img/logo.png"/></a>
+                <div class="d-flex flex-row order-2 order-lg-3 top-right-nav">
+                    <ul class="navbar-nav flex-row">
+                        <!-- <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link px-2" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="icon-search"></span></a>
+                                <div class="dropdown-menu search-dropdown  animated fadeIn" aria-labelledby="dropdownMenuButton">
+                                    <input type="search" placeholder="Search Content Here">
+                                </div>
+                            </div>
+                        </li> -->
+						                        <!--<li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link px-2" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="icon-notification"></span>
+                          </a>
+                                <div class="dropdown-menu animated fadeIn" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="#"> Notification 1</a>
+                                    <a class="dropdown-item" href="#"> Notification 2</a>
+                                    <a class="dropdown-item" href="#"> Notification 3</a>
+                                </div>
+                            </div>
+                        </li>-->
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link px-2" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <span class="icon-nav"></span>
+                                </a>
+                                <div class="dropdown-menu drawer" aria-labelledby="dropdownMenuButton">
+                                    <a href="javascript:void(0);" class="close">✖</a>
+																		
+										<a class="dropdown-item form LoginBtn" href="" rel="superbox[content]">التسجيل</a>
+										<a class="dropdown-item form LoginBtn registerBtn" href="" rel="superbox[content]">تسجيل الدخول</a>
+										
+																		<a class="dropdown-item" href="/qoanin">سياسة الخصوصية</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
+                        <span class="icon-nav"></span>
+                    </button> -->
+                </div>
+				
+                <div class="collapse navbar-collapse order-2" id="navbarNavDropdown">
+                    <ul class="navbar-nav m-auto rtl">
+                        <!-- <li class="nav-item"><a class="nav-link"  href="/" ><i class="icon-home"></i> <span>الرئيسية</span></a></li> -->
+                        <li class="nav-item"><a class="nav-link"  href="/timeline" ><i class="icon-home"></i> <span>الرئيسية</span></a></li>
+						
+                        <li class="nav-item"><a class="nav-link" href="/articles" ><i class="icon-article"></i> <span>الأخبار</span></a></li>
+						
+						<li class="nav-item"><a class="nav-link" href="/competitions" ><i class="icon-championship"></i> <span>المنافسات</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+<!-- 02-11-2017 new changes end -->
+
+
+<div class="header big-header">
+
+	<div class="header-wrap" style="position: relative;">
+
+		<div class="cleaner-h2 showit"></div>
+
+		<div>
+
+			
+				<ul class="menu-right new-form" id="nav">
+
+					<li class="registerBtnContainer"><a class="form LoginBtn registerBtn" href="" rel="superbox[content]"><img src="/bundles/layout/Frontend/img/profileUserIconWhite.png" class="user-register-icon"/>تسجيل الدخول</a> </li>
+
+					
+
+					<li class="LoginBtnContainer"><a class="form LoginBtn" id="LoginBtn" href="" rel="superbox[content]"><img src="/bundles/layout/Frontend/img/user-1.png" class="user-register-icon"/>التسجيل</a> </li>
+
+				</ul>
+
+			
+			
+
+			<form class="right-form">
+
+				<input class="input-search" type="text" placeholder="البحث من هنا" id="search" name="search" />
+
+			</form>
+
+			
+
+		</div>
+
+		
+
+		<a href="/">
+
+			<img class="pull-right logo home" src="/bundles/layout/Frontend/img/logo.png"/>
+
+		</a>
+
+		
+
+		<ul class="menu hideMenu" >
+
+			<li><a href="/">الرئيسية</a></li>
+
+			<li><a href="/forum">المنتدى</a></li>
+
+			<li><a href="/leagues">الدوريات</a></li>
+
+			<li><a href="/tournaments">البطولات</a></li>
+
+			<li><a href="/releases">مواعيد الاصدار</a></li>
+
+			<li><a href="/giveaways">الجوائز</a></li>
+
+		</ul><!--end menu-->
+
+			
+
+		<div class="cleaner-h3 showit"></div>
+
+		
+	</div><!--end header-wrap-->
+
+	<div class="cleaner-h2 showit"></div>
+
+</div><!--end header-->
+
+
+
+<div class="menu-header">
+
+	<div class="header-wrap">
+
+		<ul class="menu-head">
+
+			<li><a href="/" >الرئيسية</a></li>
+
+			<li><a href="/forum" >المنتدى</a></li>
+
+			<li><a href="/leagues" >الدوريات</a></li>
+
+			<li><a href="/tournaments" class="active">البطولات</a></li>
+
+			<li><a href="/releases" >مواعيد الاصدار</a></li>
+
+			<li><a href="/giveaways" >الجوائز</a></li>
+			<li><a href="/giveaways" >الجوائز</a></li>
+
+		</ul>
+
+	</div>
+
+</div>
+
+		
+
+		
+
+<!--<div class="cleaner-h5"></div>
+
+<div class="cleaner-h1"></div>-->
+
+
+
+<div class="contant-wrap ">
+
+	
+	
+	<div>
+
+		<div style="background: #f4f4f4;box-shadow: -1px -1px 10px gray;"></div>
+
+	</div>
+
+	
+
+
+
+<!--<div class="vh-min100 thumb match-banner" data-image-src="/bundles/g4merzbackend/uploads/championships/562bd5936f8d8ba109158747b8cf1cc079cbf2b7.gif">-->
+<div class="vh-min100 thumb match-banner">
+	<div class="banner-content">
+																				<div class="banner-top-content">
+																		 
+																																												<div class="team-1">
+								<img class="team-image banner-img" src="/bundles/g4merzbackend/uploads/matches_teams/bdf195b4c39d017068a8c89ac6be898c9d8712ab.png" alt="Image">
+								 
+								<h2 class="looser"><a title="AGReSports1" href="javascript:void(0);">AGR1</a></h2>
+							</div>
+							<div class="score">
+								<h2 class="first-team looser">2</h2>
+								<h2 class="text-white px-2">:</h2>
+								<h2 class="first-team winner">3</h2>
+																							</div>
+							<div class="team-2">
+								<img class="team-image banner-img" src="/bundles/g4merzbackend/uploads/matches_teams/e1b573a39a09593fe7e52c482b40747ea8b49870.JPG" alt="Image">
+								 
+								<h2 class="winner"><a title="EMPERORS" href="javascript:void(0);">EMRO</a></h2>
+							</div>
+																								
+						
+		</div>
+				<div class="left mat">
+			<h2 style="cursor: pointer;" onclick="location.href='/competitions/FIFA19/tournaments/119'">بطولة برو كلوب نافس للأبطال</h2>
+			<!--<h3>Apr 02, 2019 09:30 PM Asia/Riyadh +0300</h3>-->
+			<h3>Apr 02, 2019 02:05 AM Asia/Riyadh +0300</h3>
+			<!-- share button-->
+			<div href='javascript:void(0)' class="btn btn-primary  share share-link" ><img src="/bundles/g4merzbackend/uploads/img/share.png"> Share <div class='share-box' >
+					<div class='share-inner'>
+						<a href="http://www.facebook.com/sharer.php?u=https://nafs.me/tournaments/match/team/14073" target="_blank">
+								<i class='fa fa-facebook'></i>
+						</a>
+						<!-- Twitter -->
+						<a href="https://twitter.com/share?url=https://nafs.me/tournaments/match/team/14073" target="_blank">
+								<i class='fa fa-twitter'></i>
+						</a>
+						<!-- Google+ -->
+						<a href="https://plus.google.com/share?url=https://nafs.me/tournaments/match/team/14073" target="_blank">
+								<i class='fa fa-google-plus'></i>
+						</a>
+						<!-- whatapp -->
+						<a href="whatsapp://send?text=https://nafs.me/tournaments/match/team/14073" data-action="share/whatsapp/share">
+						  <i class='fa fa-whatsapp'></i>
+						</a>
+					</div>
+			</div></div>
+			<!-- share button end-->
+		</div>
+		<!--<div class="right">
+            <button class="btn btn-outline-secondary"></button>
+		</div>-->
+	</div>
+</div>
+
+<div class="match-content">
+	<div class="container">
+		<div class="games-container">
+			<div class="result">
+				<div class="match-result-title">
+					<h1>آخر النتائج</h1>
+				</div>
+				<div class="result-division">
+					<div class="result-left">
+						<h2>AGR1</h2>
+																															<ul>
+																											<li class="winner  current ">W</li>
+																																																							<li class="winner ">W</li>
+																																																							<li class="winner ">W</li>
+																																																							<li class="winner ">W</li>
+																																																							<li class="looser ">L</li>
+																																											</ul>
+																		<!--<div class="final-score">
+							<p class="looser">1</p>
+							<span>:</span>
+							<p class="winner">4</p>
+						</div>-->
+					</div>
+					<div class="result-right">
+						<h2>EMRO</h2>
+																															<ul>
+																											<li class="winner  current ">W</li>
+																																																							<li class="winner ">W</li>
+																																																							<li class="winner ">W</li>
+																																																							<li class="winner ">W</li>
+																																																							<li class="looser ">L</li>
+																																											</ul>
+																		<!--<div class="final-score">
+							<p class="looser">1</p>
+							<span>:</span>
+							<p class="winner">4</p>
+						</div>-->
+					</div>
+				</div>
+			</div>
+			<div class="statics-section">
+				<div class="match-result-title">
+					<h1>مواجهات</h1>
+				</div>
+				<div class="light-shadow p-3">
+																			
+																											
+																																							<div id="circle" data-value="0" data-first="red" data-second="#0E8FF3">
+											</div>
+					<h4 class="text-center py-3 mt-2 ar">فوز</h4>
+					<div class="linear-progress">
+						<span class="left-score looser">0</span>
+							<div class="progress match-progress-bar" style="background: #0E8FF3;">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="background: red; width:0%">
+								</div>
+							</div>
+						<span class="right-score winner">0</span>
+					</div>
+				</div>
+			</div>
+			
+			<div class="match-table-result">
+				<div class="team__title ar">
+					<h1>تشكيلة</h1>
+				</div>
+				
+				<div class="rank-table">
+					<table class="direction-content-ltr">
+						<thead>
+						<tr class="ar">
+							<th>الأسم</th>
+							<th>طليعة</th>
+							<th>الترتيب</th>
+							<th>الانضمام</th>
+						</tr>
+						</thead>
+						<tbody>
+						<tr class="ar teamname">
+							<td colspan="4" style="text-align: center;font-weight: bold;">AGR1</td>
+						</tr>
+																																					<tr>
+										<td>
+											<a title="al7osanii-9" href="javascript:void(0);">
+																									Al7osanii-9
+																								
+																									<img class="team-leader-logo" src="/bundles/layout/Frontend/img/golden-star.png" />
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>43090<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="i-dracula-i" href="javascript:void(0);">
+																									I-DRACULA-I
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39265<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="imusicx_" href="javascript:void(0);">
+																									iMuSiCx 
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39268<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ro3ah25 " href="javascript:void(0);">
+																									Ro3ah25 
+
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>19089<sup>th</sup></td>
+										<td>03-22-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="vr3bq " href="javascript:void(0);">
+																									vR3Bq 
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39248<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="l_danli2" href="javascript:void(0);">
+																									l_Danli2
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39271<sup>st</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="a1hmad54" href="javascript:void(0);">
+																									A1hmad54
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>40175<sup>th</sup></td>
+										<td>02-14-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="abo3zza20" href="javascript:void(0);">
+																									ABo3Zza20
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>33459<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ifaisal99324" href="javascript:void(0);">
+																									ifaisal99324
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>23326<sup>th</sup></td>
+										<td>03-22-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="el_pipita" href="javascript:void(0);">
+																									El_1Pipita
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39293<sup>rd</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="lm0d_87" href="javascript:void(0);">
+																									Lm0d_87
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39314<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="jack_paro77" href="javascript:void(0);">
+																									JACK_PaRo77
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39324<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="majdi_ksa" href="javascript:void(0);">
+																									MAJDI_KSA
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>40243<sup>rd</sup></td>
+										<td>02-14-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="abode__119" href="javascript:void(0);">
+																									abode__119
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>43809<sup>th</sup></td>
+										<td>03-22-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="os_offside" href="javascript:void(0);">
+																									Os_oFFsIDE
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39185<sup>th</sup></td>
+										<td>03-22-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="xfanta-8" href="javascript:void(0);">
+																									xFanta-8
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39213<sup>th</sup></td>
+										<td>03-22-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="mnoof" href="javascript:void(0);">
+																									mnoof
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>30011<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="mertnes" href="javascript:void(0);">
+																									mertnes
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39199<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="if9oool_11" href="javascript:void(0);">
+																									if9oool_11
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39206<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="abutrika96" href="javascript:void(0);">
+																									ABUTRIKA96
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>40131<sup>st</sup></td>
+										<td>03-22-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="mogeer" href="javascript:void(0);">
+																									mogeer8
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>23087<sup>th</sup></td>
+										<td>03-22-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="iidonbar2iibz" href="javascript:void(0);">
+																									iidonbar2iibz
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>53761<sup>st</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ira7mony" href="javascript:void(0);">
+																									iRa7monY 
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39219<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ops077" href="javascript:void(0);">
+																									Ops_077
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39242<sup>nd</sup></td>
+										<td>03-26-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="upqe " href="javascript:void(0);">
+																									UpqE 
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39200<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="fo0o0dy" href="javascript:void(0);">
+																									Fo0o0dy
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>53771<sup>st</sup></td>
+										<td>02-13-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="swagstarrr123" href="javascript:void(0);">
+																									Swagstarrr123
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>43921<sup>st</sup></td>
+										<td>02-13-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ooxxnawafxxoo" href="javascript:void(0);">
+																									oOxXNAWAFXxOo
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>44183<sup>rd</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="i_samer" href="javascript:void(0);">
+																									i_SaMeR
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39216<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="hshoom88" href="javascript:void(0);">
+																									HshooM88
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>25898<sup>th</sup></td>
+										<td>02-11-2019</td>
+									</tr>
+																																						
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			
+						
+						<tr class="ar teamname">
+							<td colspan="4" style="text-align: center;font-weight: bold;">EMRO</td>
+						</tr>
+																																					<tr>
+										<td>
+											<a title="movemberj6" href="javascript:void(0);">
+																									MovemberJ6
+																								
+																									<img class="team-leader-logo" src="/bundles/layout/Frontend/img/golden-star.png" />
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39198<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="imaaads" href="javascript:void(0);">
+																									IMaaaDs
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>20633<sup>rd</sup></td>
+										<td>03-02-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="i-kaaz" href="javascript:void(0);">
+																									I-KAAZ 
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39261<sup>st</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="xxmaistr_-_oxx" href="javascript:void(0);">
+																									xXmaistr_-_oxX
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39266<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="romaniii__" href="javascript:void(0);">
+																									RoMaNiii__
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39224<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="faaissal-7" href="javascript:void(0);">
+																									FaaissaL-7
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>19192<sup>nd</sup></td>
+										<td>03-25-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="philiplamh21" href="javascript:void(0);">
+																									Philiplamh21
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>23646<sup>th</sup></td>
+										<td>03-25-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="shahr_h" href="javascript:void(0);">
+																									Shahr_h
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>20167<sup>th</sup></td>
+										<td>03-25-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="waleed__ksa77" href="javascript:void(0);">
+																									WALEED__KSA77
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>20317<sup>th</sup></td>
+										<td>03-01-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ipaolo-maldini" href="javascript:void(0);">
+																									iPAOLO-MALDINI
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>18820<sup>th</sup></td>
+										<td>02-15-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="yousif-alfadhli" href="javascript:void(0);">
+																									iML6OSH 
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39508<sup>th</sup></td>
+										<td>03-01-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="pool90kick" href="javascript:void(0);">
+																									Pool90Kick 
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39373<sup>rd</sup></td>
+										<td>02-14-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="restm999" href="javascript:void(0);">
+																									Restm_bek187
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39481<sup>st</sup></td>
+										<td>02-14-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="moaysaab_1400" href="javascript:void(0);">
+																									moaysaab_1400
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>40233<sup>rd</sup></td>
+										<td>02-14-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ii__gooba__ii" href="javascript:void(0);">
+																									II__GOOBA__II
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>40234<sup>th</sup></td>
+										<td>02-14-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="i_nh4" href="javascript:void(0);">
+																									i_NH4
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39289<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="d3bos_" href="javascript:void(0);">
+																									d3bos_
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>40242<sup>nd</sup></td>
+										<td>02-14-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="sndzx" href="javascript:void(0);">
+																									SNDzx
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39304<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="qfec-" href="javascript:void(0);">
+																									qfec-
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39321<sup>st</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="xvizeu" href="javascript:void(0);">
+																									xvizeu
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>20527<sup>th</sup></td>
+										<td>03-02-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ent7ary-ksa-007" href="javascript:void(0);">
+																									ENT7aRY-KSA-007
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39328<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="sltan_xxksaxx_" href="javascript:void(0);">
+																									SLTAN_XxksaxX_
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>19066<sup>th</sup></td>
+										<td>02-17-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="vandijk_11" href="javascript:void(0);">
+																									Vandijk_11
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39347<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="eriksen-ad" href="javascript:void(0);">
+																									Eriksen-ad
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39335<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="ko0obyy5" href="javascript:void(0);">
+																									ko0obyy5
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39333<sup>rd</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="xwis-" href="javascript:void(0);">
+																									xwis-
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>23564<sup>th</sup></td>
+										<td>03-24-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="odid-" href="javascript:void(0);">
+																									oDiD-
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>40309<sup>th</sup></td>
+										<td>02-15-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="restm_bek187" href="javascript:void(0);">
+																									emperors 
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>39229<sup>th</sup></td>
+										<td>02-10-2019</td>
+									</tr>
+																																									<tr>
+										<td>
+											<a title="r3d_88200" href="javascript:void(0);">
+																									r3d_88200
+																								
+																							</a>
+										</td>
+										<td>
+																					</td>
+										<td>20048<sup>th</sup></td>
+										<td>02-25-2019</td>
+									</tr>
+																																						
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																				
+						</tbody>
+					</table>
+				</div>
+				
+			</div>
+			<div class="progres-chart"></div>
+		</div>
+	</div>
+</div>
+
+		
+	<!--<div class="cleaner-h5"></div>
+	<div class="cleaner-h5"></div>-->
+	
+<script>
+	$(document).ready(function(){
+		$(".signIn").on("click" , function(event)
+		{
+			event.preventDefault();
+			event.stopPropagation();
+			$(".signIn").attr("disabled" , "disabled");
+			var match_id = $(this).attr("data_match_id");
+			var team_id = $(this).attr("data_team_id");
+			var url ="/tournaments/sign_in_players/replace/teamId";
+			url = url.replace("replace" , match_id);
+			url = url.replace("teamId" , team_id);
+			var selectedBtn = $(this);
+			$.ajax(
+			{
+				url : url ,
+				type: "GET",
+				dataType: "json",
+				success:function(data, textStatus, jqXHR) 
+				{
+					$(".signIn").removeAttr("disabled");
+					if(data.status == "success")
+					{
+						$('#text').removeClass('redText');
+						if(data.other_player_status == 'NO')
+						{
+							$('#text').html("تم تسجيل حضورك بنجاح وبنتظار تسجيل حضور الخصم");
+							$('#alert').fadeIn('slow'); 
+							window.location.href = "/competitions/FIFA19/tournaments/119";
+						}
+						else
+						{
+							$('#text').html("تم تسجيل حضورك بنجاح وفي انتظار تسجيل النتيجة");
+							$('#alert').fadeIn('slow'); 
+							window.location.href = "/competitions/FIFA19/tournaments/119";
+						}
+					}
+					else
+					{
+						$('#text').html(data.error_msg);
+						$('#text').addClass('redText');
+						$('#alert').fadeIn('slow'); 
+					}
+				},
+				error: function(jqXHR, textStatus, errorThrown) 
+				{
+					$(".signIn").removeAttr("disabled");
+					$('#text').html("انقطع الأتصال");
+					$('#text').addClass('redText');
+					$('#alert').fadeIn('slow');     
+				}
+			});
+			event.preventDefault();
+			event.stopPropagation();
+		});
+	
+		$(".showOtherPlayerResultModal").on("click" , function(event){
+			event.preventDefault();
+			event.stopPropagation();
+			$(".showOtherPlayerResultModal").attr("disabled" , "disabled");
+			var match_id = $(this).attr("data_match_id");
+			var team_id = $(this).attr("data_team_id");
+			
+			var url ="/tournaments/show_result/replace/teamId";
+			url = url.replace("replace" , match_id);
+			url = url.replace("teamId" , team_id);
+			
+			$.ajax(
+			{
+				url : url ,
+				type: "GET",
+				dataType: "json",
+				success:function(data, textStatus, jqXHR) 
+				{
+					$(".showOtherPlayerResultModal").removeAttr("disabled");
+					if(data.status == "success")
+					{
+						$('#text').removeClass('redText');
+						$("#showResult .modal-body").html(data.renderHtml);
+						$("#showResult").modal("show");
+					}
+					else
+					{
+						$('#text').html(data.error_msg);
+						$('#text').addClass('redText');
+						$('#alert').fadeIn('slow'); 
+					}
+				},
+				error: function(jqXHR, textStatus, errorThrown) 
+				{
+					$(".showOtherPlayerResultModal").removeAttr("disabled");
+					$('#text').html("انقطع الأتصال");
+					$('#text').addClass('redText');
+					$('#alert').fadeIn('slow'); 
+				}
+			});
+			event.preventDefault();
+			event.stopPropagation();
+		});
+		
+		$(document).on("click" , ".showResultModal" , function(event){
+			event.preventDefault();
+			event.stopPropagation();
+			$(".showResultModal").attr("disabled" , "disabled");
+			$("#showResult").modal("hide");
+			var match_id = $(this).attr("data_match_id");
+			var team_id = $(this).attr("data_team_id");
+			var url ="/tournaments/get_result_form/replace/teamId";
+			url = url.replace("replace" , match_id);
+			url = url.replace("teamId" , team_id);
+			
+			$.ajax(
+			{
+				url : url ,
+				type: "GET",
+				dataType: "json",
+				success:function(data, textStatus, jqXHR) 
+				{
+					$(".showResultModal").removeAttr("disabled");
+					if(data.status == "success")
+					{
+						$('#text').removeClass('redText');
+						$("#showSubmitResult .modal-body").html(data.renderHtml);
+						$("#showSubmitResult").modal("show");
+					}
+					else
+					{
+						$('#text').html(data.error_msg);
+						$('#text').addClass('redText');
+						$('#alert').fadeIn('slow'); 
+					}
+				},
+				error: function(jqXHR, textStatus, errorThrown) 
+				{
+					$(".showResultModal").removeAttr("disabled");
+					$('#text').html("انقطع الأتصال");
+					$('#text').addClass('redText');
+					$('#alert').fadeIn('slow');          
+				}
+			});
+			event.preventDefault();
+			event.stopPropagation();
+		});
+	});
+</script>
+	
+<div class="modal fade" id="showResult" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+	<div class="modal-content">
+	  <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		<h4 class="modal-title" id="myModalLabel">عرض نتيجة المبارة</h4>
+	  </div>
+	  <div class="modal-body">
+	  </div>
+
+	</div>
+  </div>
+</div>
+
+<div class="modal fade" id="showSubmitResult" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+	<div class="modal-content">
+	  <div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		<h4 class="modal-title" id="myModalLabel">تسجيل النتيجة</h4>
+	  </div>
+	  <div class="modal-body">
+	  </div>
+
+	</div>
+  </div>
+</div>
+	
+<div class="modal fade" id="userTeamModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">اختار الفريق المراد المشاركة به</h4>
+      </div>
+	  <script>
+		$(document).ready(function(){
+
+			$('#select_team_form').bootstrapValidator({      
+				fields: {		
+					"team": {
+						message: "الفريق مطلوب",
+						 validators: {
+							notEmpty: {
+								message:  "الفريق مطلوب"
+							}
+						}
+					}
+				}
+			}).on('success.form.bv', function(e) {
+				e.preventDefault();
+				e.stopPropagation();
+				$(".submitForm").attr("disabled" , "disabled");
+				var url = $(window.selectedATag).attr("href");
+				var postData = [];
+				var champion_id = $(window.selectedATag).attr("data_champion_id");
+				var championLink = $(window.selectedATag);
+				postData[postData.length] = { 'name' : 'id' , 'value' : champion_id}
+				postData[postData.length] = { 'name' : 'teamId' , 'value' : $("#team").val()}
+				$("#userTeamModal").modal("hide");
+				$.ajax(
+				{
+					url :  url,
+					type: "POST",
+					data: postData,
+					dataType: "json",
+					success:function(data, textStatus, jqXHR) 
+					{
+						$(".submitForm").removeAttr("disabled");
+						if(data["status"] == "success")
+						{
+							$('#text').removeClass('redText');
+							$(".current_persons_" + champion_id).html(data.currentPersons);
+							$(".remain_persons_" + champion_id).html(data.remainPersons);
+							championLink.attr("href"  , "/tournaments/remove_team");
+							championLink.text("انسحاب من المشاركة");
+							championLink.removeClass("showUserTeamModel");
+							championLink.addClass("removeChampionTeam");
+							championLink.attr("data_team_id" , $("#team").val());
+						}
+						else
+						{
+							$('#text').html(data.error_msg);
+							$('#text').addClass('redText');
+							$('#alert').fadeIn('slow'); 
+							$(".submitForm").removeAttr("disabled");
+						}
+					},
+					error: function(jqXHR, textStatus, errorThrown) 
+					{
+						$('#text').html("انقطع الأتصال");
+						$('#text').addClass('redText');
+						$('#alert').fadeIn('slow');    
+						$(".submitForm").removeAttr("disabled");
+					}
+				});
+				e.preventDefault();
+				e.stopPropagation();
+			});
+		});
+	</script>
+	<form id="select_team_form" method="post" action="" class="form-horizontal">
+	  <div class="modal-body">
+			<div class="form-group col-sm-10" style="width: 100%;direction: rtl;float: right;margin-top: 20px;">
+				<label class="col-sm-2 control-label" style="float: right;width: 150px;text-align: right;">اختار الفريق</label>
+				<select name="team" class="form-control" style="  width: 350px;float: right;padding: 0px;" id="team">
+									</select>
+			</div>
+			
+			<div class="form-group col-sm-10" style="width: 100%;direction: rtl;float: right;margin-top: 20px;color:red;font-weight:bold;">
+				لا يمكنك تعديل تشكيلة الفريق بعد المشاركة في البطولة حتي الإنتهاء منها
+			</div>
+			
+			<div class="cleaner-h1" style="height:0px;"></div>
+	  </div>
+	  
+	  <div class="modal-footer">
+		<button type="button" class="reead-more-blue" data-dismiss="modal">الغاء</button>
+		<button type="submit" class="reead-more-blue submitForm" style="background-color: #543d8a;margin-left: 20px;">انضمام</button>
+	  </div>
+	</form>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+	
+</div><!--end contatnt-wrap-->   
+
+<!--<div class="cleaner-h3"></div>-->
+
+<div id="loader" style="position:fixed;top:0px;left:0px;width:100%;height:100%;background-color:rgba(000,000,000,0.8);display:none;z-index:2000;text-align: center;">
+	<img src="/bundles/layout/Frontend/img/ajax-loader.gif" style="margin:0px auto;margin-top:25%;"/>
+</div>
+
+<div id="alert" style="position:fixed;top:0px;left:0px;width:100%;height:100%;background-color:rgba(000,000,000,0.8);z-index:2000;display:none;">
+	<div id='message' style='margin:0px auto;margin-top:18%;margin-left:38%;width:20%;padding:10px;background-color:#fff;border-radius:5px;'>
+			<div id='text' style="text-align: right;">
+				<ul>
+					<li> </li>
+				</ul>
+			</div>
+		<hr style="margin-bottom: 20px;margin-top: 20px;">
+		<center>
+			<input id='closemessage' type='button' value='Close' class="btn btn-default" />
+		</center>
+	</div>
+</div>
+
+<div id="message-display-box" style="position:fixed;top:0px;left:0px;width:100%;height:100%;background-color:rgba(000,000,000,0.8);z-index:2000;display:none;">
+	<div id='message-box' style='margin:0px auto;margin-top:18%;margin-left:38%;width:20%;padding:10px;background-color:#fff;border-radius:5px;'>
+			<div id='message-text-box' style="text-align: right;">
+				<ul>
+					<li> </li>
+				</ul>
+			</div>
+		<hr style="margin-bottom: 20px;margin-top: 20px;">
+		<center>
+			<input id='closemessage-box' type='button' value='Ok' class="btn btn-default" />
+		</center>
+	</div>
+</div>
+
+<!--<div id="confirm" class="modal fade">
+  <div class="modal-body" >
+    Are you sure?
+  </div>
+  <div class="modal-footer">
+    <button type="button" data-dismiss="modal" class="btn btn-primary" id="val-confirmed">Ok</button>
+    <button type="button" data-dismiss="modal" class="btn" id="cancel-process">Cancel</button>
+  </div>
+</div>-->
+
+<div id="confirm" class="modal fade fade-back" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+		</div>
+		<div class="modal-body rtl" id="confirm-body-box">
+			 Are you sure?
+		</div>
+		<div class="modal-footer">
+			<button type="button" data-dismiss="modal" class="btn btn-primary" id="val-confirmed">Ok</button>
+			<button type="button" data-dismiss="modal" class="btn" id="cancel-process">Cancel</button>
+		</div>
+    </div>
+  </div>
+</div>
+
+<div id="confirm-share" class="modal fade fade-back" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+		<!--<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+		</div>-->
+		<div class="modal-body rtl" id="confirm-share-body-box">
+			Are you sure you want to share this on your timeline?
+		</div>
+		<input type="hidden" name="val-share-input" id="val-share-input" >
+		<div class="modal-footer">
+			<button type="button" data-dismiss="modal" class="btn btn-primary" id="val-share-confirmed">Share</button>
+			<button type="button" data-dismiss="modal" class="btn" id="cancel-share-process">Cancel</button>
+		</div>
+    </div>
+  </div>
+</div>
+
+<div id="confirm-delete-post" class="modal fade fade-back" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+		<!--<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+		</div>-->
+		<div class="modal-body rtl" id="confirm-delete-post-body-box">
+			Are you sure you want to delete this post?
+		</div>
+		<input type="hidden" name="val-delete-post-input" id="val-delete-post-input" >
+		<div class="modal-footer">
+			<button type="button" data-dismiss="modal" class="btn btn-primary" id="val-delete-post-confirmed">Delete</button>
+			<button type="button" data-dismiss="modal" class="btn" id="cancel-delete-post-process">Cancel</button>
+		</div>
+    </div>
+  </div>
+</div>
+
+<div id="confirm-delete-comment" class="modal fade fade-back" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+		<!--<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+		</div>-->
+		<div class="modal-body rtl" id="confirm-delete-comment-body-box">
+			Are you sure you want to delete this Comment?
+		</div>
+		<input type="hidden" name="val-delete-comment-input" id="val-delete-comment-input" >
+		<div class="modal-footer">
+			<button type="button" data-dismiss="modal" class="btn btn-primary" id="val-delete-comment-confirmed">Delete</button>
+			<button type="button" data-dismiss="modal" class="btn" id="cancel-delete-comment-process">Cancel</button>
+		</div>
+    </div>
+  </div>
+</div>
+
+
+
+</body>
+
+</html>
